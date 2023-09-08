@@ -7,6 +7,9 @@ touch input.csv
 urls=(
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
+  ||www.nettruyenus.com##.mrb5.text-center.container
+  ||www.nettruyenus.com##div.col-sm-6.text-center.mrb5.mrt5:nth-of-type(1)
+  ||www.nettruyenus.com##.reading > div.container > div.row
 )
 
 # loop through the urls and download each file with curl

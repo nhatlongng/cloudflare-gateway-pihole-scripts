@@ -6,7 +6,7 @@ touch input.csv
 # declare an array of urls
 urls=(
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
+  https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 )
 
 # loop through the urls and download each file with curl
